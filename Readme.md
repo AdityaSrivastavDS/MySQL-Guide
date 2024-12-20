@@ -49,14 +49,29 @@ Each topic includes hands-on examples and real-world scenarios to help you apply
 
 # 📂 Structure
 The repository is organized by topic, with separate files or folders for each concept:
-MySQL-Guide/
-│
-├── case_expressions.sql
-├── CTE.sql
-├── Fundamentals.sql
-├── joins.sql
-├── normalization.sql
-├── set_operations.sql
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MySQL Guide File Structure</title>
+</head>
+<body>
+    <h1>MySQL Guide - File Structure</h1>
+    <p>Below is the file structure of the MySQL Guide repository:</p>
+    <code>
+        MySQL-Guide/<br>
+        │<br>
+        ├── case_expressions.sql<br>
+        ├── CTE.sql<br>
+        ├── Fundamentals.sql<br>
+        ├── joins.sql<br>
+        ├── normalization.sql<br>
+        ├── set_operations.sql<br>
+    </code>
+</body>
+</html>
+
 
 # 🛠 Tools and Requirements
 - MySQL Server
