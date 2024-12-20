@@ -54,7 +54,6 @@ The repository is organized by topic, with separate files or folders for each co
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MySQL Guide File Structure</title>
 </head>
 <body>
     <h1>MySQL Guide - File Structure</h1>
