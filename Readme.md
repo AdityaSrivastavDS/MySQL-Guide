@@ -32,6 +32,9 @@ This repository is a comprehensive resource for learning and practicing MySQL. I
 ### 9.Normalization and Denormalization
 - Explore database and table optimization.
 
+### 10.Window Functions
+- Learn core functionalities of SQL for advance data analysis.
+
 ## 💻 Practical Implementations
 Each topic includes hands-on examples and real-world scenarios to help you apply the concepts in practice. These examples are designed to reinforce your understanding and improve your SQL skills.
 
